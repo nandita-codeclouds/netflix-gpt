@@ -9,6 +9,8 @@
 - login / sign up
     - sign in/ sign up
     - redirect to home page
+    -login form
+    - signup form
 
 - browse page ( after authentication)
     - Header
